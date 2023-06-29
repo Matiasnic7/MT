@@ -1,6 +1,6 @@
 # MT
 Códigos MT CSH, 
-se listan cuatro archivos asociados a los códigos utilizados durante la realización de la memoria como JN, a continuación una breve descripción de cada archivo incluido: <br>
+se listan cuatro archivos asociados a los códigos utilizados durante la realización de la memoria como jupyter notebooks. A continuación una breve descripción de cada archivo incluido: <br>
 Recortes Lavados: Código creado para recortar tiempos de lavados durante régimen de operación.<br>
 Catacterización: De la info extraida de recortes, se caracteriza el proceso de lavado de gases y variables operación ventilador KKK.<br>
 Temperaturas descansos: Estudio temperatura medidas en desacansos KKK.<br>
