@@ -1,4 +1,4 @@
-# MT
+# Memoria de Título
 Códigos MT CSH, 
 se listan cuatro archivos asociados a los códigos utilizados durante la realización de la memoria como jupyter notebooks. A continuación una breve descripción de cada archivo incluido: <br>
 Recortes Lavados: Código creado para recortar tiempos de lavados durante régimen de operación.<br>
